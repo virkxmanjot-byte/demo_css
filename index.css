@@ -1,0 +1,56 @@
+body{
+    background-color: orange;
+}
+.head{
+    color: darkblue;
+}
+
+#bglime{
+    background-color: rgb(65, 146, 65);
+    font-size: xxx-large;
+}
+.highlight{
+    color: red;
+}
+
+p{
+    color: white;
+    font-size: x-large;
+}
+
+#para{
+    color: green;
+    font-size: large;
+}
+
+.highlight1{
+    color: black;
+    font-size: xx-large;
+}
+
+h3{
+    color: black;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+}
+
+ul li:first-child a {
+    background-color: yellow;
+    color: green;
+    
+}
+
+ul li:last-child a{
+    background-color: blue;
+    color: white;
+}
+ol li:nth-child(2){
+    color: blue;
+}
+
+ol li:nth-child(3){
+    color: red;
+}
